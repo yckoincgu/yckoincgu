@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>I am a teacher</p>
+
 <!--
 **yckoincgu/yckoincgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
