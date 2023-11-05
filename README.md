@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://tw.yahoo.com/">test</p>
+<a href="https://scholar.google.com.tw/citations?hl=zh-TW&user=Dk-7FvoAAAAJ&view_op=list_works&sortby=pubdate">論文發表</p>
 
 <!--
 **yckoincgu/yckoincgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
