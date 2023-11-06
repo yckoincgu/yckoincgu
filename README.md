@@ -23,6 +23,12 @@
     <td>多準則決策</td>
     <td></td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>資料科學</td>
+    <td></td>
+  </tr>  
 </table><br>
 <img src="1.jpg"></img>
 <!--
