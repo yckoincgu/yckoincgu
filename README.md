@@ -14,13 +14,14 @@
   <tr>
     <td><a href="https://sfsu.chu.edu.tw/p/403-1083-35.php?Lang=zh-tw">教授</a></td>
     <td>知識庫系統</td>
+    <td>競爭力</td>
     <td></td>
-    <td><a href="https://chat.openai.com/">聊天的朋友</a></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td></td>
     <td>資料科學</td>
-    <td>Mexico</td>
+    <td>多準則決策</td>
+    <td></td>
   </tr>
 </table><br>
 <img src="1.jpg"></img>
