@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><a href="https://mis.chu.edu.tw/">資管系</a></td>
-    <td>資料科學</td>
+    <td></td>
     <td>多準則決策</td>
     <td></td>
   </tr>
