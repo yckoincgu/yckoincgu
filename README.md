@@ -13,7 +13,7 @@
     <td>張O庭</td>
   </tr>
   <tr>
-    <td><a href="https://mis.chu.edu.tw/">勞動部就業學程</a></td>
+    <td><a href="https://www.wda.gov.tw/News_Content.aspx?n=85E1E406503C665B&sms=4AB77FB5C324175E&s=C6A795A82C17519E">勞動部就業學程</a></td>
     <td></td>
     <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:_FxGoFyzp5QC">多準則決策</a></td>
     <td>高O諺</td>
