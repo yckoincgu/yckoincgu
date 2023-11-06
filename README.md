@@ -3,7 +3,7 @@
 目前正在著手(1) 知識庫系統開發 (2) 資料科學研究 <br>
 我的<a href="https://scholar.google.com.tw/citations?hl=zh-TW&user=Dk-7FvoAAAAJ&view_op=list_works&sortby=pubdate">論文發表</a><br>
 <a href="https://chat.openai.com/">聊天的朋友</a>
-<img ="1.jpg"></img>
+<img src="1.jpg"></img>
 <!--
 **yckoincgu/yckoincgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
