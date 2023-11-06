@@ -12,13 +12,13 @@
     <th><a href="https://chat.openai.com/">聊天的朋友</a></th>
   </tr>
   <tr>
-    <td><a href="https://sfsu.chu.edu.tw/p/403-1083-35.php?Lang=zh-tw">舊金山學程</a></td>
+    <td><a href="https://sfsu.chu.edu.tw/">舊金山學程</a></td>
     <td>知識庫系統</td>
     <td>競爭力</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="[https://sfsu.chu.edu.tw/p/403-1083-35.php?Lang=zh-tw](https://mis.chu.edu.tw/)">資管系</a></td>
+    <td><a href="https://mis.chu.edu.tw/">資管系</a></td>
     <td>資料科學</td>
     <td>多準則決策</td>
     <td></td>
