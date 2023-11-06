@@ -7,25 +7,25 @@
     <th><a href="https://chat.openai.com/">聊天的朋友</a></th>
   </tr>
   <tr>
-    <td><a href="https://sfsu.chu.edu.tw/">舊金山學程</a></td>
+    <td><a href="https://sfsu.chu.edu.tw/">舊金山學程(資管)</a></td>
     <td>知識庫系統</td>
     <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:qjMakFHDy7sC">競爭力</a></td>
-    <td></td>
+    <td>張O庭</td>
   </tr>
   <tr>
-    <td><a href="https://mis.chu.edu.tw/">資管系</a></td>
+    <td><a href="https://mis.chu.edu.tw/">勞動部就業學程</a></td>
     <td></td>
     <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:_FxGoFyzp5QC">多準則決策</a></td>
-    <td></td>
+    <td>高O諺</td>
   </tr>
   <tr>
-    <td>智慧創新躍升計畫</td>
+    <td><a href="https://proj.moe.edu.tw/itsa/Default.aspx">教育部智慧創新躍升</a></td>
     <td></td>
     <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:3fE2CSJIrl8C">資料科學</a></td>
-    <td></td>
+    <td>王O仁</td>
   </tr>  
 </table><br>
-張O庭作品<br>
+
 <img src="1.jpg"></img>
 <!--
 **yckoincgu/yckoincgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
