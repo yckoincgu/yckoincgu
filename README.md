@@ -19,7 +19,7 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>智慧創新躍升計畫</td>
     <td></td>
     <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:3fE2CSJIrl8C">資料科學</a></td>
     <td></td>
