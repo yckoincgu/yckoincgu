@@ -4,7 +4,7 @@
 <a href="https://sfsu.chu.edu.tw/p/403-1083-35.php?Lang=zh-tw">工作與職稱</a>
 <a href="https://scholar.google.com.tw/citations?hl=zh-TW&user=Dk-7FvoAAAAJ&view_op=list_works&sortby=pubdate">論文發表</a>
 <a href="https://sfsu.chu.edu.tw/p/403-1083-35.php?Lang=zh-tw">工作與職稱</a>
-<a href="[https://sfsu.chu.edu.tw/p/403-1083-35.php?Lang=zh-tw](https://chat.openai.com/)">工作與職稱</a>
+<a href="https://chat.openai.com/">AI talk</a>
 
 <!--
 **yckoincgu/yckoincgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
