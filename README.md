@@ -14,7 +14,8 @@
   <tr>
     <td><a href="https://sfsu.chu.edu.tw/">舊金山學程</a></td>
     <td>知識庫系統</td>
-    <td>競爭力</td>
+    
+    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:qjMakFHDy7sC">競爭力</a></td>
     <td></td>
   </tr>
   <tr>
