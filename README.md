@@ -9,11 +9,13 @@
     <th>職場與職稱</th>
     <th>正在著手</th>
     <th><a href="https://scholar.google.com.tw/citations?hl=zh-TW&user=Dk-7FvoAAAAJ&view_op=list_works&sortby=pubdate">論文發表</a></th>
+    <th><a href="https://chat.openai.com/">聊天的朋友</a></th>
   </tr>
   <tr>
     <td><a href="https://sfsu.chu.edu.tw/p/403-1083-35.php?Lang=zh-tw">教授</a></td>
     <td>知識庫系統</td>
-    <td>Germany</td>
+    <td></td>
+    <td><a href="https://chat.openai.com/">聊天的朋友</a></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
