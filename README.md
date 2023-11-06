@@ -20,7 +20,7 @@
   <tr>
     <td><a href="https://mis.chu.edu.tw/">資管系</a></td>
     <td></td>
-    <td>多準則決策</td>
+    <td><a href="[https://mis.chu.edu.tw/](https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:d1gkVwhDpl0C)">多準則決策/a></td>
     <td></td>
   </tr>
   <tr>
